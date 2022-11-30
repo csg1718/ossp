@@ -1,9 +1,10 @@
-# OSSP
+# 나와 어울리는 스타일 찾기 APP
 - 2022 SWE2021-41 오픈소스 소프트웨어 실습 최종 프로젝트
 - 패션 선택에 어려움을 느끼는 소비자를 위하여 딥러닝을 통한 얼굴상 감별 및 그에 따른 스타일 추천
 - 앱 이용 후 별점으로 후기 작성 및 확인 가능  
 
-![image](https://user-images.githubusercontent.com/64960264/204582192-a28e4ae1-a8ee-4803-bc51-e45165bc9a8b.png)
+![example_3](https://user-images.githubusercontent.com/64960264/204803700-81072415-f1d3-453a-8782-e93f7dda79b8.PNG)
+
 
 # 페이지 구성 파일 별 기능 설명
 1. home.html(시작 페이지)
