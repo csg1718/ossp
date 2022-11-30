@@ -46,11 +46,9 @@
 페이지 하단의 go 버튼을 따라서 진행합니다.  
 파일을 업로드 하는 페이지에서 이미지 업로드 후 모델 load 및 학습이 진행되어 시간이 소요되기 때문에 go 버튼이 나올 때까지 기다려야 합니다.
 
-# License
-Apache License Version 2.0  
-[해당 링크]에서 자세한 내용을 확인할 수 있습니다.
-
 # Installation
+
+# 
 
 # Code of Conduct
 해당 프로젝트를 개발하는 인원들은 패션 선택에 어려움을 느끼는 소비자를 위해 상호 존중 속에서 협력을 통해 작업을 진행했습니다.  
@@ -62,3 +60,6 @@ Apache License Version 2.0
 # Feedback mechanism
 [Issue](https://github.com/eraw1am/OSSP/issues)를 등록하거나, []에 메일을 보내 피드백을 전송할 수 있습니다.
 
+# License
+Apache License Version 2.0  
+[해당 링크]에서 자세한 내용을 확인할 수 있습니다.
